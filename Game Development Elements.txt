@@ -1,0 +1,8 @@
+Characters- PC or NPC: user controlled character and the computer controlled character
+Goal- the objective of the game
+Rules- how the game should be played
+Balance- used to make game balanced; not easy or hard
+Chance vs Skill- the skill of the player playing and the way in which obstacles spawn(lucky/unlucky)
+Feedback- the way the game responds to the user; sounds and text
+Game Adaptivity- used to make the game progressively harder to keep the user engaged
+Story- the story behind the game; why the game was created or why it's being played
